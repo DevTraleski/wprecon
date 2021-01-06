@@ -15,6 +15,7 @@ Hello! Welcome. Wprecon (Wordpress Recon), is a vulnerability recognition tool i
 
 ### Notice:
 #### Why is the project out of updates these days ?! What happens is that I am doing the vulnerability scanner.
+#### [Branch Dev](https://github.com/blackcrw/wprecon/tree/dev)
 
 ### [Compile and Install](https://github.com/blackcrw/wprecon/blob/dev/doc/compile&install.md)
 
@@ -30,7 +31,7 @@ Hello! Welcome. Wprecon (Wordpress Recon), is a vulnerability recognition tool i
 |   ✅          | Tor Proxy's           |
 |   ✅          | Detection Honeypot    |
 |   ✅          | Fuzzing Backup Files  |
-|   🔨          | Fuzzing Passwords     |
+|   ❌          | Fuzzing Passwords     |
 |   ❌          | Vulnerability Scanner |
 
 <h2 align="center">Usage</h2>
